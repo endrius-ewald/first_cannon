@@ -9,10 +9,10 @@
 ![1](Capturar2.PNG)
 
 ## Compiling/run instructions
-`bash
+```bash
 javac *.java
 java JogoCanon
-`
+```
 
 
 
